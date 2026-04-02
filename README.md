@@ -1,6 +1,6 @@
 # Journal Article Dashboard (R Shiny)
 
-An interactive R Shiny dashboard that scrapes, cleans, and visualizes publication data from [The Journal of Physiological Sciences](https://jps.biomedcentral.com/articles) (BMC). Built as a final project for DS636 at NJIT.
+An interactive R Shiny dashboard that scrapes, cleans, and visualizes publication data from [The Journal of Physiological Sciences](https://jps.biomedcentral.com/articles) (BMC).
 
 ## Overview
 
@@ -73,9 +73,6 @@ rshiny-journal-article-dashboard/
 - The scraped dataset is automatically exported to a CSV file (`DS636_Project_Ananta Dian Pradipta.csv`) in the working directory after each fetch.
 - The word cloud truncates keywords longer than 13 characters for display readability.
 
-## License
-
-This project is provided for educational purposes as part of NJIT DS636 coursework.
 
 ## Author
 
